@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Tanzilal Mustaqim</h1>
 <h3 align="center">Full Stack Developer and Machine Learning Enthusiast who never stops learning</h3>
-
+<br />
 <p align="left"> <a href="https://twitter.com/derekleon14" target="blank"><img src="https://img.shields.io/twitter/follow/derekleon14?logo=twitter&style=for-the-badge" alt="derekleon14" /></a> </p>
 
 - 🔭 I’m currently working on **Rumah Sastra**
