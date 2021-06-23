@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and everything**
 
-- 📄 Know about my experiences [tanziaco.com](tanziaco.com)
+- 📄 Know about my experiences at [tanziaco.com](tanziaco.com)
 
 - ⚡ Fun fact :  **I'm a cat and snack lover**
 <br />
