@@ -3,11 +3,11 @@
 <br />
 <p align="left"> <a href="https://twitter.com/derekleon14" target="blank"><img src="https://img.shields.io/twitter/follow/derekleon14?logo=twitter&style=for-the-badge" alt="derekleon14" /></a> </p>
 
-- 🔭 I’m currently working on **Rumah Sastra**
+- 🔭 I am currently continuing my studies di **Institut Teknologi Sepuluh Nopember**
 
 - 🌱 I’m currently learning **Deep Learning and everything**
 
-- 📄 Know about my experiences at [tanziaco.com](tanziaco.com)
+- 📄 Know about my experiences at [tanzia.my.id](tanzia.my.id)
 
 - ⚡ Fun fact :  **I'm a cat and snack lover**
 <br />
