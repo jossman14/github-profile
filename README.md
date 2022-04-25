@@ -3,7 +3,7 @@
 <br />
 <p align="left"> <a href="https://twitter.com/derekleon14" target="blank"><img src="https://img.shields.io/twitter/follow/derekleon14?logo=twitter&style=for-the-badge" alt="derekleon14" /></a> </p>
 
-- 🔭 I am currently continuing my studies di **Institut Teknologi Sepuluh Nopember**
+- 🔭 I am currently continuing my studies at **Institut Teknologi Sepuluh Nopember**
 
 - 🌱 I’m currently learning **Deep Learning and everything**
 
